@@ -1,3 +1,4 @@
+(imagen.png)
 # presentacion-de-proyecto
 este proyecto se analizo el comportamiento de ventas, ingresos y rentabilidad de varios productos, se utilizo SQL y Power BI, con el objetivo de entender cómo afectan los precios a la demanda y a las ganancias de negocio.
 
@@ -14,4 +15,4 @@ los zapatos tienen poca demanda e incluso un menor impacto en las ganancias
 el incremento de los precios pueden reducir significativamente en las ventas
 
 se recomienda mantener el precio del pantalón debido a su alta rentabilidad, optimizar el precio de la playera para maximizar las ganancias, evaluar estrategias para aumentar la demanda de los zapatos y analizar el impacto de cambio de precio antes de aplicarlos.
-![Uploading image.png…]()
+
