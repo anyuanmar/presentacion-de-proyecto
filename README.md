@@ -14,3 +14,4 @@ los zapatos tienen poca demanda e incluso un menor impacto en las ganancias
 el incremento de los precios pueden reducir significativamente en las ventas
 
 se recomienda mantener el precio del pantalón debido a su alta rentabilidad, optimizar el precio de la playera para maximizar las ganancias, evaluar estrategias para aumentar la demanda de los zapatos y analizar el impacto de cambio de precio antes de aplicarlos.
+![Uploading image.png…]()
